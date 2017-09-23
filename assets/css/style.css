@@ -1,0 +1,162 @@
+* {
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+body {
+    margin: 0px;
+    padding: 0px;
+    max-width: 960px;
+}
+
+header {
+    background-color: #ffffff;
+    border-color: #cccccc;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    display: inline;
+    margin: 5px;
+    color: #777777;
+}
+
+h1,h2,h3,h4k {
+    font-family: 'Georgia', Times, 'Times New Roman', 'sefif';
+    color: #4aaaa5;
+}
+
+h1 {
+    padding: 30px 0px 8px 30px;
+    font-size: 36px;
+}
+
+p { 
+    color: #777777;
+
+}
+
+footer {
+    background-color: #666666;
+    padding: 20px;
+    border: 10px 0px 0px 0px;
+    border-color: #4aaaa5;
+    color: #D9D3D3;
+    font-size: 16px;
+    text-align: center;
+}
+
+.wrapper {
+    background-image: url("assets/images/paisley.png");
+}
+
+.content {
+   background-color: #D9D4D4;
+   max-width: 650px;
+   margin-top: 120px;
+   margin-left: 155px;
+   margin-bottom: 40px;
+   border: 1px;
+   border-color: #dddddd;
+}
+
+.info_links {
+    float: left;
+    padding: 30px;
+    font-size: 14px;
+    margin: 0px 0px 0px 150px;
+}
+
+.about {
+    max-width: 200px;
+    height: 490px;
+    padding: 20px;
+    clear: both;
+}
+
+.line {
+    text-align: center;
+}
+.picture {
+    float: left;
+    padding: 10px;
+}
+
+
+.introandlinks {
+    background-color: #ffffff;
+    border-color: #cccccc;
+    clear: both;
+}
+
+.intro {
+    padding: 30px;
+    font-size: 36px;
+    float: left;
+    background-color: #4aaaa5;
+    max-width: 300px;
+    margin: 0px 0px 0px 155px;
+    color: #D9D3D3;
+    text-align: center;
+}    
+
+.bio {
+    width: 340px;
+    clear: both;
+}
+.box-right {
+    max-width: 270px;
+    height: 40px;
+    position: absolute;
+    top: 10px;
+    background-color: #ffffff;
+    margin-left: 340px;
+    margin-top: 260px;
+    padding: 10px 0px 100px 0px;
+}
+
+.firstconnect {
+    margin-left: 50px;
+    font-size: 20px;
+    padding: 0px 0px 20px 0px;
+}
+
+.secondconnect {
+    padding: 5px;
+    margin-left: 20px;
+}
+.nameentry {
+    padding: 2.5px 0px 2.5px 0px;
+    width:100%; 
+}
+
+.emailentry {
+    padding: 2.5px 0px 2.5px 0px;
+    width: 100%;
+}
+
+.messageentry {
+    padding: 2.5px 0px 150px 0px;
+    width: 100%;
+}
+
+.photos {
+    width: 280px;
+    padding: 0px;
+
+}
+.firstphotocolumn {
+   margin-right: 0px;
+}
+
+.secondphotocolumn {
+    float: left;
+    margin-left: 30px;
+}
+
+
+
